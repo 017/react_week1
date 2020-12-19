@@ -22,4 +22,10 @@ function App() {
   );
 }
 
+// class App1 extends Component {
+//   render() {
+
+//   }
+// }
+
 export default App;

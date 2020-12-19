@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bg-darker {
+  background-image: linear-gradient(to bottom right, #d34a27 , rgba(255,0,0,0));
+  background-color: #272727;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
